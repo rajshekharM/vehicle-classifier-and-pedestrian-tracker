@@ -1,0 +1,39 @@
+21:39:19   07/07/2017
+
+3 possible plates found
+
+license plate read from image = JB007
+
+----------------------------------------
+sedan gauss (score = 0.73594)
+suv gauss (score = 0.23575)
+small gauss (score = 0.02831)
+21:40:15   07/07/2017
+
+1 possible plates found
+
+license plate read from image = KZ6BZYT
+
+----------------------------------------
+suv gauss (score = 0.72652)
+sedan gauss (score = 0.24176)
+small gauss (score = 0.03172)
+21:41:31   07/07/2017
+
+1 possible plates found
+
+license plate read from image = 12DE1433
+
+----------------------------------------
+suv gauss (score = 0.86548)
+sedan gauss (score = 0.10850)
+small gauss (score = 0.02602)
+
+00:25:00   08/07/2017
+
+4 possible plates found
+
+license plate read from image = TTTTTT
+
+----------------------------------------
+suv gauss
