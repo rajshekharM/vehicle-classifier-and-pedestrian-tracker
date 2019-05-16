@@ -1,5 +1,6 @@
 # Vehicle-classifier-and-pedestrian-tracker
-Sepetember 2017 Project 
+## Sepetember 2017 Project 
+
 Update May 2019 : YOLO versions that have come up later (yolov2 and yolov3) are better performing and easier to build
 
 Vehicle classifier using own dataset to train Inception on python-tensorflow platform and using YOLO to identify pedestrians 
