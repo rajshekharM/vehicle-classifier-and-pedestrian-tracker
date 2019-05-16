@@ -16,6 +16,8 @@ A) OpenCV 2
 B) Python 2.7
 C) Numpy
 D) Tensorflow (via Docker)
+
+
 I recommend Anaconda in order to install A,B and C.
 
 The instructions in the following link can be followed for installing Tensorflow:
