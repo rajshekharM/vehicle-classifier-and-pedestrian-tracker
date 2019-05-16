@@ -25,5 +25,5 @@ https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?
 
 Run surveillance.py
 
-The system uses a webcam to capture a real-time image of a vehicle. The webcame maybe in-built VideoCapture(0) or external(mostly VideoCapture(1) depending on the port it is connected to.) Upon capturing the image, it takes about 15 seconds to display and store the car type, time of capture and license plate number. The results are stored in a text file named Output.txt
+The system uses a webcam to capture a real-time image of a vehicle. The webcam maybe in-built VideoCapture(0) or external(mostly VideoCapture(1) depending on the port it is connected to.) Upon capturing the image, it takes about 15 seconds to display and store the car type, time of capture and license plate number. The results are stored in a text file named Output.txt
 
